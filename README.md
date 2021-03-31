@@ -1,6 +1,7 @@
 # emulator_test
 
 A new Flutter application.
+This app follows the documentation to create your first Flutter application on flutter.dev and codelabs.
 
 ## Getting Started
 
